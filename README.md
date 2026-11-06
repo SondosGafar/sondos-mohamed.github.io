@@ -5,7 +5,7 @@ A modern, responsive personal portfolio showcasing my background, projects, tech
 
 The website serves as a central hub for exploring my technical work, research, academic achievements, and professional experience.
 
-### 🔗 [View Live Portfolio](https://sondosgafar.github.io/)
+### 🔗 [View Live Portfolio]([https://sondosgafar.github.io/](https://sondosgafar.github.io/sondos-mohamed.github.io/))
 
 ## ✨ Features
 
@@ -86,7 +86,7 @@ The design aims to present technical accomplishments in a visually engaging form
 
 The portfolio is published through **GitHub Pages**.
 
-**Live Website:** https://sondosgafar.github.io/
+**Live Website:** [https://sondosgafar.github.io/](https://sondosgafar.github.io/sondos-mohamed.github.io/)
 
 ## 👩‍💻 About Me
 
@@ -100,7 +100,7 @@ I focus on developing end-to-end intelligent systems that combine machine learni
 
 ## 📬 Connect
 
-- 🌐 **Portfolio:** https://sondosgafar.github.io/
+- 🌐 **Portfolio:** [https://sondosgafar.github.io/](https://sondosgafar.github.io/sondos-mohamed.github.io/)
 - 💻 **GitHub:** https://github.com/SondosGafar
 - 📧 **Email:** sondosgafar@gmail.com
 
